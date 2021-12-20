@@ -1,17 +1,17 @@
 # site settings
 title: Johan
-subtitle: by HTML5 UP
+subtitle: 
 email: johanarvidhellberg@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Here is some information to my future employer.
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://johanarvidhellberg.github.io # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
+phone: +46 762 18 05 19
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -26,7 +26,7 @@ socials:
   GitLab:
   Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+  LinkedIn: https://www.linkedin.com/in/johan-hellberg-928241175/
   Twitter: https://twitter.com/andrewbanchich
   Facebook:
   Slack:
